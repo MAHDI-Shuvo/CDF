@@ -1,7 +1,7 @@
 # CDF
 
-git clone https://github.com/MAHDI-Shuvo/CDF
+git clone https://github.com/MAHDI-Shuvo/CDS
 
-cd CDF
+cd CDS
 
 python mahdi.py
