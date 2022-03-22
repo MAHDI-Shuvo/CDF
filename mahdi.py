@@ -74,8 +74,10 @@ LIVE in Sylhet (Read in class 10)
 ____________________________________________________________
 """)
 
-print("""\033[0;93m[1] GRUP ADMIN:Radi Ahmed(C D S)
-\033[1;31m[2] MODARATOR :\033[0;10mমোঃ সারোয়ার করিম
+print("""
+# WELL COME TO CDS
+\033[0;93m[1] GRUP ADMIN:Mahfuz Ahmed(C D S)
+\033[1;31m[2] MODARATOR :\033[0;10mceo :- Allen Raj
 \033[1;33m[3] DAVOLAPER :\033[0;31m MAHDI HASAN SUVO
 \033[1;32m[4] JoyEnt Grup : (Cyber Defence Squad)
 \033[0;32mSEE MY PIK Type 5 \033[0m
