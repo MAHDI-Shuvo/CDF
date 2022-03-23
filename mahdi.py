@@ -49,6 +49,8 @@ purple="\033[0;35m"
 def main():
 	os.system("clear")
 print(""" 
+
+
        \033[0;33mCCCCCCCCCCCCCDDDDDDDDDDDDD           SSSSSSSSSSSSSSS\033[91m 
      CCC::::::::::::CD::::::::::::DDD      SS:::::::::::::::S\033[0;32m
    CC:::::::::::::::CD:::::::::::::::DD   S:::::SSSSSS::::::S
@@ -71,17 +73,19 @@ ____________________________________________________________
 WELL COME SYLHET GAMG (IAM NEW MEMBER IN YOUR GRUP)
 LIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
-____________________________________________________________
+____________________________________________________________\033[0;33m
+╦ ╦╔═╗╦  ╦    ╔═╗╔═╗╔╦╗╔═╗\033[0;34m
+║║║║╣ ║  ║    ║  ║ ║║║║║╣ \033[0;35m
+╚╩╝╚═╝╩═╝╩═╝  ╚═╝╚═╝╩ ╩╚═╝\033[0m
 """)
 
 print("""
-# WELL COME TO CDS
 \033[0;93m[1] GRUP ADMIN:Mahfuz Ahmed(C D S)
-\033[1;31m[2] MODARATOR :\033[0;10mceo :- Allen Raj
+\033[1;31m[2] MODARATOR :\033[0;10mceo :- মোঃ সারোয়ার করিম
 \033[1;33m[3] DAVOLAPER :\033[0;31m MAHDI HASAN SUVO
 \033[1;32m[4] JoyEnt Grup : (Cyber Defence Squad)
 \033[0;32mSEE MY PIK Type 5 \033[0m
-\033[0;10mceom[6] :-\033[0;32mAllen Raj\033[0m
+\033[0;10mCEO[6] :-\033[0;32mAllen Raj\033[0m
 """)
 
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
