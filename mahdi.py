@@ -81,6 +81,7 @@ print("""
 \033[1;33m[3] DAVOLAPER :\033[0;31m MAHDI HASAN SUVO
 \033[1;32m[4] JoyEnt Grup : (Cyber Defence Squad)
 \033[0;32mSEE MY PIK Type 5 \033[0m
+\033[0;10mceom[6] :-\033[0;32mAllen Raj\033[0m
 """)
 
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
@@ -227,3 +228,11 @@ CREATED BY MAHDI HASAN(SHUVO)
 FB ; https://web.facebook.com/mahdihasan.80
 FB Grup ;https://web.facebook.com/group/
 """)
+    main()
+elif pil in ["06", "6"]:
+    os.system('xdg-open https://m.facebook.com/tera.pappa.allen.raj.oky')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
