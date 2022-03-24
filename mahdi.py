@@ -232,7 +232,7 @@ CREATED BY MAHDI HASAN(SHUVO)
 FB ; https://web.facebook.com/mahdihasan.80
 FB Grup ;https://web.facebook.com/group/
 """)
-    main()
+   
 elif pil in ["06", "6"]:
     os.system('xdg-open https://m.facebook.com/tera.pappa.allen.raj.oky')
     time.sleep(2)
