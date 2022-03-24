@@ -49,12 +49,10 @@ purple="\033[0;35m"
 def main():
 	os.system("clear")
 print(""" 
-
-
        \033[0;33mCCCCCCCCCCCCCDDDDDDDDDDDDD           SSSSSSSSSSSSSSS\033[91m 
-     CCC::::::::::::CD::::::::::::DDD      SS:::::::::::::::S\033[0;32m
-   CC:::::::::::::::CD:::::::::::::::DD   S:::::SSSSSS::::::S
-  C:::::CCCCCCCC::::CDDD:::::DDDDD:::::D  S:::::S     SSSSSSS\033[0;37m
+     CCC::::::::::::CD::::::::::::DDD      SS:::::::::::::::S
+   CC:::::::::::::::CD:::::::::::::::DD   S:::::SSSSSS::::::S\033[0;32m
+  C:::::CCCCCCCC::::CDDD:::::DDDDD:::::D  S:::::S     SSSSSSS\033[1;37m
  C:::::C       CCCCCC  D:::::D    D:::::D S:::::S            
 C:::::C                D:::::D     D:::::DS:::::S            
 C:::::C                D:::::D     D:::::D S::::SSSS\033[1;37m         
@@ -75,7 +73,7 @@ LIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ____________________________________________________________\033[0;33m
 ╦ ╦╔═╗╦  ╦    ╔═╗╔═╗╔╦╗╔═╗\033[0;34m
-║║║║╣ ║  ║    ║  ║ ║║║║║╣ \033[0;35m
+\033[1;31m║║║║╣ ║  ║    ║  ║ ║║║║║╣ \033[1;32m 
 ╚╩╝╚═╝╩═╝╩═╝  ╚═╝╚═╝╩ ╩╚═╝\033[0m
 """)
 
@@ -85,7 +83,7 @@ print("""
 \033[1;33m[3] DAVOLAPER :\033[0;31m MAHDI HASAN SUVO
 \033[1;32m[4] JoyEnt Grup : (Cyber Defence Squad)
 \033[0;32mSEE MY PIK Type 5 \033[0m
-\033[0;10mCEO[6] :-\033[0;32mAllen Raj\033[0m
+\033[1;37mCEO[6] :-\033[0;32mAllen Raj\033[0m
 """)
 
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
@@ -119,6 +117,14 @@ elif pil in ["04", "4"]:
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
     main()
+
+elif pil in ["6", "6"]:
+    os.system('xdg-open https://web.facebook.com/tera.pappa.allen.raj.oky')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+
 elif pil in ["05", "5"]:
 
     print("""
@@ -232,11 +238,3 @@ CREATED BY MAHDI HASAN(SHUVO)
 FB ; https://web.facebook.com/mahdihasan.80
 FB Grup ;https://web.facebook.com/group/
 """)
-   
-elif pil in ["06", "6"]:
-    os.system('xdg-open https://m.facebook.com/tera.pappa.allen.raj.oky')
-    time.sleep(2)
-    print(" ")
-    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-    time.sleep(2)
-    main()
